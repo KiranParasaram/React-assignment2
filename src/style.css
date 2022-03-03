@@ -1,0 +1,58 @@
+h1{
+    text-align: center;
+}
+form{
+    text-align: center;
+    margin-top: 50px;
+}
+label{
+    font-size: 20px;
+}
+input{
+    height: 50px;
+    border: none;
+    border-radius: 30px;
+    background-color: rgb(214, 50, 219);
+    color: aliceblue;
+    font-size: 20px;
+}
+.btnSub{
+    background-color: chartreuse;
+    margin-top: 20px;
+    width: 200px;
+    height: 50px;
+    color: black;
+    font-size: 30px ;
+}
+.outerbox{
+   
+    width: 95%;
+    margin-top: 100px;
+    margin-left: 30px;
+    background-color: blueviolet;
+    border-radius: 20px;
+
+    display: inline-block;
+    display: flex;
+    flex-wrap: wrap;
+}
+ 
+   
+.valuein{
+   margin-top: 20px;
+   margin-left: 50px;
+   margin-bottom: 10px;
+ 
+  border-radius: 20px;
+    background-color: crimson;
+    color: azure;
+    width: 45%;
+    height: 90px;
+    font-size: 25px ;
+  
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
